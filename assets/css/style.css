@@ -778,6 +778,14 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .single-contact-add-info {
     margin-bottom:  26px;
 }
+.single-contact-add-info a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.single-contact-add-info a:hover {
+    text-decoration: underline; 
+}
 /*.contact-add-info */
 
 /*hm-foot-icon*/
